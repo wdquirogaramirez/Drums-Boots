@@ -115,6 +115,7 @@ header .nav-link {
 }
 .card{
     margin: 2em;
+    padding: 1em;
 }
 .row {
     margin: 0 auto;
