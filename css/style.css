@@ -25,11 +25,12 @@ header div{
     background-color: #151515;
     font-size: 1.5rem;
     color: blanchedalmond;
-    position: absolute;
+    position: absolute fixed;
     z-index: 10000;
     width: 100%;
     
 }
+
 header div a{
      color: blanchedalmond;
 }
