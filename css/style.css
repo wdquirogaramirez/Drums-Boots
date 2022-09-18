@@ -109,13 +109,12 @@ header .nav-link {
     width: 100%;
     display: block;
     align-items: center;
-
-   
-    
-
 }
 .card-group{
     margin: 0 auto;
+}
+.card{
+    margin: 2em;
 }
 .row {
     margin: 0 auto;
