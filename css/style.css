@@ -147,9 +147,9 @@ footer a{
     color: blanchedalmond;
 }
 .carousel-item{
-    height: 50%;
-    background-position: center;
-    background-size: cover;
-    padding: 100px;
+    
+   
+    padding-left: 30%;
+    padding-right: 30%;
     
 }
