@@ -121,6 +121,12 @@ header .nav-link {
 .card{
     margin: 2em;
     padding: 1em;
+    box-shadow: 2px 2px 7px whitesmoke;
+    transition: box-shadow 0.3s ease-out;
+}
+.card:hover{
+    box-shadow: 2px 2px 12px whitesmoke
+
 }
 .row {
     margin: 0 auto;
