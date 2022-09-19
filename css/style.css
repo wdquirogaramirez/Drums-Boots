@@ -126,6 +126,7 @@ header .nav-link {
     margin: 0 auto;
 }
 
+
 footer{
     align-self: flex-end;
     padding: 2rem;
@@ -146,10 +147,13 @@ footer a{
     text-decoration: none;
     color: blanchedalmond;
 }
-.carousel-item{
-    
-   
-    padding-left: 30%;
-    padding-right: 30%;
-    
+.CarConteiner{
+    padding-top: 9em ;
+    margin-bottom: 2em;
+}
+.ImgCar {
+    padding-left: 50em;
+    padding-right: 50em;
+    height: 60em;
+    width: 8em;
 }
